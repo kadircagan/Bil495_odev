@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Odev_495",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Odev_495",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
